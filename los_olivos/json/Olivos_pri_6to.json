@@ -1,0 +1,81 @@
+{
+    "total": 179,
+    "dispositivos": {
+        "Celular / smartphone": 117,
+        "Laptop": 71,
+        "Computadora de escritorio": 63,
+        "Tablet": 58,
+        "Consola de videojuegos": 44,
+        "Computadora": 2,
+        "Television": 2,
+        "Televisón": 1,
+        "Televisión": 1,
+        "Celular y computadora": 1,
+        "Televisor y celular": 1,
+        "Ajedrez": 1,
+        "Nintedo switch": 1,
+        "Nokia del año 1885": 1,
+        "Celu de mi abuela": 1,
+        "Piña": 1,
+        "Celular de mi abue": 1
+    },
+    "horas": {
+        "1 a 2 horas": 71,
+        "5 horas o más": 51,
+        "3 a 4 horas": 46,
+        "Menos de 1 hora": 11
+    },
+    "uso": {
+        "Jugar": 153,
+        "Hacer tareas": 144,
+        "Ver videos": 115,
+        "Redes sociales": 91,
+        "Aprender cosas nuevas": 62
+    },
+    "estudio": {
+        "A veces": 113,
+        "Siempre": 46,
+        "Casi nunca": 19,
+        "Nunca": 1
+    },
+    "redes": {
+        "YouTube": 152,
+        "Whatsapp": 129,
+        "Tiktok": 122,
+        "Discord": 39,
+        "Instagram": 25,
+        "Roblox": 10,
+        "Facebook": 7,
+        "Discort": 4,
+        "Messenger": 3,
+        "Pinterest": 2,
+        "Duolingo y juegos (en general )": 1,
+        "Spotify": 1,
+        "Discord y roblox": 1,
+        "Chatgpt": 1,
+        "Chat gt": 1,
+        "Fc mobile": 1,
+        "G mail": 1,
+        "Etc.": 1,
+        "Gogle": 1,
+        "Clash royale": 1,
+        "Twitter": 1,
+        "Kick": 1,
+        "Didscor": 1,
+        "Gmail": 1,
+        "Nose": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 83,
+        "3 a 4 horas": 37,
+        "5 horas o más": 31,
+        "Menos de 1 hora": 28
+    },
+    "uso_redes": {
+        "Hablar con amigos": 114,
+        "Entretenimiento": 95,
+        "Ver videos": 79,
+        "Aprender cosas nuevas": 32,
+        "Compartir fotos": 9
+    }
+}
