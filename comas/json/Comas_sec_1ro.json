@@ -1,0 +1,72 @@
+{
+    "total": 166,
+    "dispositivos": {
+        "Celular / smartphone": 115,
+        "Laptop": 55,
+        "Computadora de escritorio": 38,
+        "Tablet": 31,
+        "Consola de videojuegos": 14,
+        "Celular": 3,
+        "Televisión": 2,
+        "": 2,
+        "Y aveces mi nintendo swicht 2": 1,
+        "Television": 1,
+        "Computadora": 1,
+        "Tablet y celular": 1,
+        "Reproductor de mp3 o mp3 player": 1,
+        "Iphone": 1,
+        "Computadora y celular": 1,
+        "Ver tv": 1
+    },
+    "horas": {
+        "1 a 2 horas": 92,
+        "3 a 4 horas": 51,
+        "5 horas o más": 13,
+        "Menos de 1 hora": 10
+    },
+    "uso": {
+        "Hacer tareas": 127,
+        "Jugar": 104,
+        "Redes sociales": 83,
+        "Ver videos": 79,
+        "Aprender cosas nuevas": 57
+    },
+    "estudio": {
+        "A veces": 93,
+        "Siempre": 61,
+        "Casi nunca": 11,
+        "Nunca": 1
+    },
+    "redes": {
+        "Tiktok": 131,
+        "YouTube": 112,
+        "Whatsapp": 108,
+        "Instagram": 65,
+        "Discord": 12,
+        "Facebook": 10,
+        "Roblox": 2,
+        "": 2,
+        "Snapchat": 1,
+        "Chatgpt": 1,
+        "Free fire": 1,
+        "Tik tok": 1,
+        "Roblox y source filmmaker (steam)": 1,
+        "Spotify": 1,
+        "Instragram aveces": 1,
+        "Line": 1,
+        "Google": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 93,
+        "Menos de 1 hora": 42,
+        "3 a 4 horas": 23,
+        "5 horas o más": 8
+    },
+    "uso_redes": {
+        "Entretenimiento": 126,
+        "Hablar con amigos": 119,
+        "Ver videos": 113,
+        "Aprender cosas nuevas": 67,
+        "Compartir fotos": 22
+    }
+}
