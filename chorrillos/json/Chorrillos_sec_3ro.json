@@ -1,0 +1,78 @@
+{
+    "total": 196,
+    "dispositivos": {
+        "Celular / smartphone": 162,
+        "Laptop": 83,
+        "Computadora de escritorio": 47,
+        "Consola de videojuegos": 33,
+        "Tablet": 26,
+        "": 3,
+        "Televisión": 2,
+        "Celular smartphone  y computadora": 1,
+        "Nintendo": 1,
+        "Ipad": 1,
+        "Minecraft": 1
+    },
+    "horas": {
+        "3 a 4 horas": 67,
+        "5 horas o más": 60,
+        "1 a 2 horas": 49,
+        "Menos de 1 hora": 20
+    },
+    "uso": {
+        "Hacer tareas": 137,
+        "Jugar": 117,
+        "Redes sociales": 115,
+        "Ver videos": 106,
+        "Aprender cosas nuevas": 92
+    },
+    "estudio": {
+        "A veces": 124,
+        "Siempre": 63,
+        "Nunca": 5,
+        "Casi nunca": 4
+    },
+    "redes": {
+        "Tiktok": 153,
+        "Instagram": 141,
+        "Whatsapp": 141,
+        "YouTube": 132,
+        "Facebook": 10,
+        "": 6,
+        "Discord": 6,
+        "Pinterest": 4,
+        "Kick": 2,
+        "Roblox": 2,
+        "Google": 2,
+        "Uber": 2,
+        "Twitter spacehey tumblr pinterest": 1,
+        "Twitter (x)": 1,
+        "Spotify o pinterest": 1,
+        "Twich": 1,
+        "Etc": 1,
+        "Pinterest y spotify": 1,
+        "Discord (no la uso tanto)": 1,
+        "Twitter": 1,
+        "...............................................................................................................................................": 1,
+        "Discord;kick;roblox": 1,
+        "Lef4ded": 1,
+        "Fornite": 1,
+        "Brawl stars": 1,
+        "Juegos": 1,
+        "Reddit": 1,
+        "Weverse": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 72,
+        "Menos de 1 hora": 45,
+        "3 a 4 horas": 45,
+        "5 horas o más": 34
+    },
+    "uso_redes": {
+        "Hablar con amigos": 160,
+        "Entretenimiento": 141,
+        "Ver videos": 127,
+        "Aprender cosas nuevas": 76,
+        "Compartir fotos": 49
+    }
+}
