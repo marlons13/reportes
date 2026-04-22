@@ -1,0 +1,62 @@
+{
+    "total": 298,
+    "dispositivos": {
+        "Celular / smartphone": 246,
+        "Laptop": 103,
+        "Computadora de escritorio": 97,
+        "Tablet": 19,
+        "Consola de videojuegos": 14,
+        "": 2,
+        "Pc gamer": 1,
+        "Casi nunca uso ninguno": 1
+    },
+    "horas": {
+        "3 a 4 horas": 135,
+        "1 a 2 horas": 108,
+        "5 horas o más": 41,
+        "Menos de 1 hora": 14
+    },
+    "uso": {
+        "Hacer tareas": 216,
+        "Redes sociales": 199,
+        "Jugar": 161,
+        "Ver videos": 160,
+        "Aprender cosas nuevas": 140
+    },
+    "estudio": {
+        "A veces": 173,
+        "Siempre": 110,
+        "Casi nunca": 10,
+        "Nunca": 5
+    },
+    "redes": {
+        "Instagram": 237,
+        "Tiktok": 229,
+        "Whatsapp": 209,
+        "YouTube": 184,
+        "Facebook": 21,
+        "": 2,
+        "Discord": 2,
+        "X (twiter)": 2,
+        "No tengo": 1,
+        "Pokemon": 1,
+        "Twitter": 1,
+        "Xuper": 1,
+        "Ibis paint": 1,
+        "Team fortres 2": 1,
+        "Team fortress 2": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 139,
+        "3 a 4 horas": 73,
+        "Menos de 1 hora": 68,
+        "5 horas o más": 18
+    },
+    "uso_redes": {
+        "Hablar con amigos": 248,
+        "Entretenimiento": 211,
+        "Ver videos": 164,
+        "Aprender cosas nuevas": 133,
+        "Compartir fotos": 59
+    }
+}
