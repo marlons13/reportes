@@ -1,0 +1,93 @@
+{
+    "total": 202,
+    "dispositivos": {
+        "Celular / smartphone": 180,
+        "Computadora de escritorio": 68,
+        "Laptop": 64,
+        "Tablet": 28,
+        "Consola de videojuegos": 28,
+        "Celular / computadora": 1,
+        "Refrigerador inteligente": 1,
+        "": 1,
+        "No utilizo con frecuencia el celular": 1,
+        "Kindle": 1,
+        "Celular": 1,
+        "Guitarra": 1,
+        "Reloj inteligente": 1
+    },
+    "horas": {
+        "1 a 2 horas": 72,
+        "3 a 4 horas": 69,
+        "5 horas o más": 50,
+        "Menos de 1 hora": 11
+    },
+    "uso": {
+        "Hacer tareas": 159,
+        "Redes sociales": 153,
+        "Ver videos": 126,
+        "Jugar": 115,
+        "Aprender cosas nuevas": 101
+    },
+    "estudio": {
+        "A veces": 105,
+        "Siempre": 79,
+        "Casi nunca": 14,
+        "Nunca": 4
+    },
+    "redes": {
+        "Instagram": 176,
+        "Tiktok": 161,
+        "Whatsapp": 153,
+        "YouTube": 116,
+        "Facebook": 25,
+        "": 8,
+        "Spotify": 7,
+        "Discord": 3,
+        "4chan": 2,
+        "Likend": 1,
+        "Ninguna": 1,
+        "Instagram casi nunca": 1,
+        "Ao3": 1,
+        "Tiki toki": 1,
+        "Snap tube": 1,
+        "Kick": 1,
+        "Safarí": 1,
+        "Calculadora": 1,
+        "Gacha life": 1,
+        "Fri fai": 1,
+        "Bobox": 1,
+        "Threads": 1,
+        "Dola xd": 1,
+        "Twitter": 1,
+        "Snapchat": 1,
+        "Clash royale": 1,
+        "Free fire": 1,
+        "Meta": 1,
+        "Chat gpt": 1,
+        "Gemini": 1,
+        "Gusanito": 1,
+        "Pou": 1,
+        "Goodreads": 1,
+        "Tinder": 1,
+        "Llamada": 1,
+        "Twiter": 1,
+        "Xsuper": 1,
+        "Roblox": 1,
+        "Clash royale y netflix": 1,
+        "Daily tube": 1,
+        "Netflix": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 87,
+        "3 a 4 horas": 62,
+        "Menos de 1 hora": 29,
+        "5 horas o más": 24
+    },
+    "uso_redes": {
+        "Hablar con amigos": 172,
+        "Entretenimiento": 160,
+        "Ver videos": 149,
+        "Aprender cosas nuevas": 108,
+        "Compartir fotos": 83
+    }
+}

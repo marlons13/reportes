@@ -1,0 +1,72 @@
+{
+    "total": 127,
+    "dispositivos": {
+        "Celular / smartphone": 60,
+        "Computadora de escritorio": 44,
+        "Tablet": 43,
+        "Laptop": 32,
+        "Consola de videojuegos": 14,
+        "Tablet de lectura": 2,
+        "La tele profe": 1,
+        "Televisión": 1,
+        "P5s": 1,
+        "Televisón": 1
+    },
+    "horas": {
+        "1 a 2 horas": 62,
+        "5 horas o más": 24,
+        "Menos de 1 hora": 22,
+        "3 a 4 horas": 19
+    },
+    "uso": {
+        "Jugar": 86,
+        "Hacer tareas": 83,
+        "Ver videos": 61,
+        "Aprender cosas nuevas": 38,
+        "Redes sociales": 25
+    },
+    "estudio": {
+        "A veces": 92,
+        "Siempre": 22,
+        "Casi nunca": 13
+    },
+    "redes": {
+        "YouTube": 97,
+        "Whatsapp": 62,
+        "Tiktok": 58,
+        "Instagram": 18,
+        "Roblox": 6,
+        "Facebook": 2,
+        "Magis": 2,
+        "": 2,
+        "Netflix": 1,
+        "Brawl stars": 1,
+        "Roblox y mas": 1,
+        "Netflix y mas": 1,
+        "Ninguno": 1,
+        "Llamadas": 1,
+        "Twich": 1,
+        "Kick": 1,
+        "Discord mas": 1,
+        "Roblox y capcut": 1,
+        "Minecraft y roblox": 1,
+        "Spotify": 1,
+        "Frefire": 1,
+        "Dola": 1,
+        "Juegos": 1,
+        "Roblox y ver stray kids": 1
+    },
+    "horas_redes": {
+        "Menos de 1 hora": 53,
+        "1 a 2 horas": 51,
+        "3 a 4 horas": 15,
+        "5 horas o más": 8
+    },
+    "uso_redes": {
+        "Ver videos": 82,
+        "Entretenimiento": 63,
+        "Hablar con amigos": 58,
+        "Aprender cosas nuevas": 46,
+        "Compartir fotos": 11
+    }
+}

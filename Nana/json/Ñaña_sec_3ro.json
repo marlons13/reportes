@@ -1,0 +1,81 @@
+{
+    "total": 215,
+    "dispositivos": {
+        "Celular / smartphone": 182,
+        "Laptop": 87,
+        "Computadora de escritorio": 75,
+        "Consola de videojuegos": 38,
+        "Tablet": 32,
+        "": 6,
+        "Televisión": 2,
+        "Ipad": 1,
+        "Juego fri": 1,
+        "Computadora gamer": 1
+    },
+    "horas": {
+        "3 a 4 horas": 95,
+        "5 horas o más": 58,
+        "1 a 2 horas": 53,
+        "Menos de 1 hora": 9
+    },
+    "uso": {
+        "Hacer tareas": 151,
+        "Redes sociales": 145,
+        "Jugar": 143,
+        "Ver videos": 136,
+        "Aprender cosas nuevas": 88
+    },
+    "estudio": {
+        "A veces": 141,
+        "Siempre": 60,
+        "Casi nunca": 13,
+        "Nunca": 1
+    },
+    "redes": {
+        "Tiktok": 174,
+        "Instagram": 158,
+        "Whatsapp": 153,
+        "YouTube": 134,
+        "Facebook": 9,
+        "": 5,
+        "Discord": 4,
+        "Spotify": 3,
+        "X": 2,
+        "Wattpad": 2,
+        "Telegram": 2,
+        "Roblox": 2,
+        "Spotifai": 2,
+        "En clash royale": 1,
+        "Charater ai": 1,
+        "@": 1,
+        "Reddit": 1,
+        "Calculadora": 1,
+        "X (twitter)": 1,
+        "Pinterest": 1,
+        "Todos los q existen": 1,
+        "Free fire": 1,
+        "Netflix": 1,
+        "Kick   twich": 1,
+        "Twitter": 1,
+        "Snapchat twiter discord": 1,
+        "Gacha life": 1,
+        "Jugar brawl stars": 1,
+        "Duolingo": 1,
+        "Apple music apple": 1,
+        "Más q nada wasp para comunicarme": 1,
+        "Twitter (x)": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 89,
+        "3 a 4 horas": 57,
+        "5 horas o más": 35,
+        "Menos de 1 hora": 34
+    },
+    "uso_redes": {
+        "Hablar con amigos": 179,
+        "Entretenimiento": 171,
+        "Ver videos": 155,
+        "Aprender cosas nuevas": 82,
+        "Compartir fotos": 62
+    }
+}

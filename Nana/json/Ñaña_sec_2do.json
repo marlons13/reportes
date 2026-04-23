@@ -1,0 +1,83 @@
+{
+    "total": 190,
+    "dispositivos": {
+        "Celular / smartphone": 139,
+        "Laptop": 73,
+        "Computadora de escritorio": 60,
+        "Tablet": 27,
+        "Consola de videojuegos": 26,
+        "Televisión": 2,
+        "Celular": 2,
+        "Refrigeradora": 1,
+        "Play 4": 1,
+        "Para jugar y estudiar": 1,
+        "Pc y laptop": 1
+    },
+    "horas": {
+        "3 a 4 horas": 65,
+        "1 a 2 horas": 63,
+        "5 horas o más": 53,
+        "Menos de 1 hora": 9
+    },
+    "uso": {
+        "Hacer tareas": 130,
+        "Jugar": 119,
+        "Ver videos": 111,
+        "Redes sociales": 110,
+        "Aprender cosas nuevas": 76
+    },
+    "estudio": {
+        "A veces": 122,
+        "Siempre": 57,
+        "Casi nunca": 10,
+        "Nunca": 1
+    },
+    "redes": {
+        "Tiktok": 144,
+        "Whatsapp": 132,
+        "YouTube": 127,
+        "Instagram": 95,
+        "Facebook": 17,
+        "Discord": 12,
+        "": 4,
+        "Kick": 2,
+        "Twich": 2,
+        "Todas las anteriores": 2,
+        "Steam": 1,
+        "Netflix roblox minecraft juegos de anime": 1,
+        "We chat y 4chan": 1,
+        "X (twitter)": 1,
+        "Lectormanga": 1,
+        "Mahwuawed": 1,
+        "Etc": 1,
+        "Twuiter": 1,
+        "Pinteres": 1,
+        "Etc.": 1,
+        "Pinterest": 1,
+        "No uso redes sociales. en realidad la pregunta de abajo diría 0 segundos.": 1,
+        "No uso redes sociales": 1,
+        "Respecto a la pregunta de abajo": 1,
+        "Marcaría que dedico tiempo a las redes sociales.": 1,
+        "Polybuss": 1,
+        "Spotify": 1,
+        "Chrome y x": 1,
+        "Brawl stars": 1,
+        "Discord-twitter-telegram-etc": 1,
+        "Freefire": 1,
+        "Kick  twich": 1,
+        "Kick twich": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 86,
+        "3 a 4 horas": 46,
+        "Menos de 1 hora": 34,
+        "5 horas o más": 24
+    },
+    "uso_redes": {
+        "Hablar con amigos": 143,
+        "Ver videos": 133,
+        "Entretenimiento": 130,
+        "Aprender cosas nuevas": 70,
+        "Compartir fotos": 34
+    }
+}

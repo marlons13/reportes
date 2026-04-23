@@ -1,0 +1,74 @@
+{
+    "total": 105,
+    "dispositivos": {
+        "Celular / smartphone": 60,
+        "Laptop": 34,
+        "Computadora de escritorio": 26,
+        "Tablet": 19,
+        "Consola de videojuegos": 19,
+        "Televisión": 5,
+        "": 2,
+        "Computadora gamer": 1,
+        "No tengo nada comprame un celular pe": 1,
+        "Ca                                                lla": 1,
+        "No tengo celular  comprame uno o le llamo a la indecopi": 1,
+        "De la 3 tambien uso dispositivos para editar kny  para doblaje latino y japonés.": 1,
+        "No tengo ceñu": 1,
+        "Celular y tv": 1,
+        "Nintendo switch": 1,
+        "Celular": 1
+    },
+    "horas": {
+        "1 a 2 horas": 43,
+        "Menos de 1 hora": 23,
+        "5 horas o más": 20,
+        "3 a 4 horas": 19
+    },
+    "uso": {
+        "Jugar": 71,
+        "Hacer tareas": 68,
+        "Ver videos": 43,
+        "Redes sociales": 34,
+        "Aprender cosas nuevas": 31
+    },
+    "estudio": {
+        "A veces": 66,
+        "Siempre": 22,
+        "Casi nunca": 9,
+        "Nunca": 8
+    },
+    "redes": {
+        "YouTube": 74,
+        "Tiktok": 56,
+        "Whatsapp": 49,
+        "Instagram": 13,
+        "Roblox": 6,
+        "Discord": 5,
+        "Facebook": 4,
+        "Kick": 3,
+        "": 3,
+        "Twitter": 1,
+        "Nunguno": 1,
+        "No tengo celular te dije pe": 1,
+        "Ns la verdad": 1,
+        "Youtube y whatsapp": 1,
+        "Que no tengo celular te dtije ya regalame mi celu plis y te compro tu elmoliente": 1,
+        "Uso capcut para editar": 1,
+        "Comprame": 1,
+        "Robox": 1,
+        "Pinterest": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 45,
+        "Menos de 1 hora": 34,
+        "5 horas o más": 15,
+        "3 a 4 horas": 11
+    },
+    "uso_redes": {
+        "Hablar con amigos": 59,
+        "Ver videos": 57,
+        "Entretenimiento": 57,
+        "Aprender cosas nuevas": 34,
+        "Compartir fotos": 13
+    }
+}
