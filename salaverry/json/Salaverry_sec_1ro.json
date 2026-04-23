@@ -1,0 +1,84 @@
+{
+    "total": 290,
+    "dispositivos": {
+        "Celular / smartphone": 214,
+        "Laptop": 97,
+        "Computadora de escritorio": 62,
+        "Tablet": 55,
+        "Consola de videojuegos": 48,
+        "Televisión": 6,
+        "": 2,
+        "Television": 2,
+        "Todos": 1,
+        "Ipad": 1,
+        "Play 4": 1,
+        "Computadora": 1,
+        "Laptop y celular para estudiar o jugar": 1,
+        "Tele vision": 1
+    },
+    "horas": {
+        "1 a 2 horas": 125,
+        "3 a 4 horas": 85,
+        "5 horas o más": 56,
+        "Menos de 1 hora": 24
+    },
+    "uso": {
+        "Hacer tareas": 219,
+        "Jugar": 191,
+        "Ver videos": 147,
+        "Redes sociales": 132,
+        "Aprender cosas nuevas": 93
+    },
+    "estudio": {
+        "A veces": 188,
+        "Siempre": 74,
+        "Casi nunca": 24,
+        "Nunca": 4
+    },
+    "redes": {
+        "Whatsapp": 211,
+        "YouTube": 204,
+        "Tiktok": 199,
+        "Instagram": 115,
+        "Facebook": 16,
+        "Discord": 11,
+        "": 9,
+        "Roblox": 4,
+        "Twitter": 2,
+        "Pinterest": 2,
+        "Ninguna": 2,
+        "Discort": 2,
+        "Boblox ozi ozi": 1,
+        "No uso": 1,
+        "Free fire": 1,
+        "Discor": 1,
+        "Netflix": 1,
+        "Neflix": 1,
+        "Spotify": 1,
+        "Twiter": 1,
+        "Brawl star": 1,
+        "Brawl stars": 1,
+        ".": 1,
+        "Roblox xd": 1,
+        "Gemini": 1,
+        "Discord y youtube music": 1,
+        "Ninguno": 1,
+        "Clash royal": 1,
+        "Pinterets": 1,
+        "Chat gpt": 1,
+        "Gemini ai": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 121,
+        "Menos de 1 hora": 77,
+        "3 a 4 horas": 62,
+        "5 horas o más": 30
+    },
+    "uso_redes": {
+        "Entretenimiento": 222,
+        "Hablar con amigos": 209,
+        "Ver videos": 179,
+        "Aprender cosas nuevas": 97,
+        "Compartir fotos": 48
+    }
+}

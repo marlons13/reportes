@@ -1,0 +1,79 @@
+{
+    "total": 343,
+    "dispositivos": {
+        "Celular / smartphone": 301,
+        "Laptop": 135,
+        "Computadora de escritorio": 81,
+        "Tablet": 54,
+        "Consola de videojuegos": 50,
+        "Televisión": 3,
+        "Nada": 2,
+        "": 1,
+        "Tableta gráfica": 1,
+        "Mp3": 1,
+        "No uso eso:)": 1,
+        "Computadora ycelular": 1,
+        "Ninguno": 1
+    },
+    "horas": {
+        "3 a 4 horas": 152,
+        "1 a 2 horas": 93,
+        "5 horas o más": 87,
+        "Menos de 1 hora": 11
+    },
+    "uso": {
+        "Hacer tareas": 243,
+        "Redes sociales": 233,
+        "Ver videos": 218,
+        "Jugar": 209,
+        "Aprender cosas nuevas": 158
+    },
+    "estudio": {
+        "A veces": 214,
+        "Siempre": 104,
+        "Casi nunca": 16,
+        "Nunca": 9
+    },
+    "redes": {
+        "Tiktok": 268,
+        "Instagram": 258,
+        "Whatsapp": 234,
+        "YouTube": 232,
+        "Facebook": 21,
+        "Discord": 19,
+        "": 9,
+        "X": 4,
+        "Spotify": 3,
+        "Pinterest": 2,
+        "Clash royaleeeeeeee": 1,
+        "No uso": 1,
+        "C.ai": 1,
+        "Chatpgt": 1,
+        "Twich": 1,
+        "Clasroom": 1,
+        "Spacehey": 1,
+        "X(twitter)": 1,
+        "Twitter/x": 1,
+        "Telegram snapchat": 1,
+        "Tinder": 1,
+        "Todas": 1,
+        "Ig": 1,
+        "Lelegram snapchat pinterest": 1,
+        "Snapchat": 1,
+        "Mucho más": 1,
+        "Google": 1
+    },
+    "horas_redes": {
+        "1 a 2 horas": 143,
+        "3 a 4 horas": 97,
+        "Menos de 1 hora": 61,
+        "5 horas o más": 42
+    },
+    "uso_redes": {
+        "Hablar con amigos": 289,
+        "Entretenimiento": 274,
+        "Ver videos": 229,
+        "Aprender cosas nuevas": 123,
+        "Compartir fotos": 90
+    }
+}

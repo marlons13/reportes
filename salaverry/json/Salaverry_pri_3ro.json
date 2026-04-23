@@ -1,0 +1,67 @@
+{
+    "total": 130,
+    "dispositivos": {
+        "Celular / smartphone": 70,
+        "Tablet": 64,
+        "Laptop": 54,
+        "Computadora de escritorio": 35,
+        "Consola de videojuegos": 19,
+        "Televisión": 4,
+        "": 1,
+        "Television": 1,
+        "Nintendo de 1993": 1,
+        "No tengo": 1,
+        "Videojuegos": 1,
+        "Viojueos": 1
+    },
+    "horas": {
+        "1 a 2 horas": 56,
+        "Menos de 1 hora": 34,
+        "5 horas o más": 20,
+        "3 a 4 horas": 20
+    },
+    "uso": {
+        "Jugar": 93,
+        "Hacer tareas": 63,
+        "Ver videos": 62,
+        "Aprender cosas nuevas": 53,
+        "Redes sociales": 20
+    },
+    "estudio": {
+        "A veces": 77,
+        "Siempre": 27,
+        "Casi nunca": 17,
+        "Nunca": 9
+    },
+    "redes": {
+        "YouTube": 93,
+        "Tiktok": 45,
+        "Whatsapp": 33,
+        "No tengo": 20,
+        "Facebook": 6,
+        "Roblox": 5,
+        "Instagram": 5,
+        "": 5,
+        "No  tengo": 2,
+        "Youtube kits": 1,
+        "Yotube miusic": 1,
+        "Duolingo": 1,
+        "Roblox67677676767676767": 1,
+        "Roblox676767676767676767676767": 1,
+        "Youtube kids": 1,
+        "Roblox y yutube": 1
+    },
+    "horas_redes": {
+        "Menos de 1 hora": 60,
+        "1 a 2 horas": 38,
+        "3 a 4 horas": 16,
+        "5 horas o más": 16
+    },
+    "uso_redes": {
+        "Ver videos": 74,
+        "Aprender cosas nuevas": 62,
+        "Hablar con amigos": 44,
+        "Entretenimiento": 39,
+        "Compartir fotos": 15
+    }
+}
